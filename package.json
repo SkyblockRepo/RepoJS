@@ -1,0 +1,23 @@
+{
+  "name": "@skyblockrepo/js",
+  "version": "0.0.1",
+  "description": "NPM package to interface with skyblock repo data",
+  "homepage": "https://github.com/SkyblockRepo/RepoJS#readme",
+  "bugs": {
+    "url": "https://github.com/SkyblockRepo/RepoJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyblockRepo/RepoJS.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.3"
+  }
+}
