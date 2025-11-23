@@ -7,7 +7,6 @@
 		"moduleDetection": "force",
 		"moduleResolution": "NodeNext",
 		"module": "NodeNext",
-		// "module": "ESNext", // For easier local development
 
 		"rootDir": "./src",
 		"outDir": "./dist",
